@@ -3,3 +3,4 @@ Trabalho da materia de linguagens de programação com o intuito de criar um apl
 Para executar o programa é necessário preencher o menu de acordo com as instruções e aguardar as mensagens que serão retornadas.
 Primeiro passo: digitar um número de aposta de 0 a 100
 Segundo passo: digitar uma letra de aposta de A á Z
+Terceiro passo: digitar um numero par ou impar para sorteio 
